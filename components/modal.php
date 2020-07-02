@@ -35,7 +35,7 @@
                               <div class="d-none alert alert-danger" role="alert" data-error-message>
                                 Please fill all fields correctly.
                               </div>
-                              <div data-recaptcha data-sitekey="6Lemz4gUAAAAAElq4ZHFBzI7j8QUiYMn9I0mzQWG" data-size="invisible" data-badge="bottomleft">
+                              <div data-recaptcha data-sitekey="6Lffn6wZAAAAAAugzAxCAAtRnt51FglCvz8Gb24F" data-size="invisible" data-badge="bottomleft">
                               </div>
                               <button type="submit" class="btn btn-primary btn-loading btn-block" data-loading-text="Sending">
                                 <img class="icon" src="assets/img/icons/theme/code/loading.svg" alt="loading icon" data-inject-svg />

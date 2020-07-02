@@ -29,7 +29,7 @@
     <?php include('./components/modal.php');?>
 
     <div class="navbar-container ">
-      <nav class="navbar navbar-expand-lg navbar-light border-bottom-0 bg-white" data-sticky="top">
+      <nav class="navbar navbar-expand-lg navbar-light border-bottom-0 bg-primary-alt" data-sticky="top">
         <div class="container">
             <a class="navbar-brand fade-page" href="\">
                 <img src="https://i.imgur.com/zcVVdnM.gif" alt="TeeGee" style="width: 250px;">

@@ -20,7 +20,7 @@
                   <a href="portfolio" class="nav-link">Portfolio</a>
                 </li>
                 <li class="nav-item">
-                  <a href="blog" class="nav-link">Blog</a>
+                  <a href="https://medium.com/@codystack" class="nav-link">Blog</a>
                 </li>
                 <li class="nav-item">
                   <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public?uclick_id=9e8ccaed-7952-4893-adee-0e4823365eef" target="_blank" class="nav-link">COVID-19 resources</a>
