@@ -28,11 +28,11 @@
     </div>
     <?php include('./components/modal.php');?>
 
-    <div class="navbar-container ">
-      <nav class="navbar navbar-expand-lg navbar-light border-bottom-0 bg-white" data-sticky="top">
+    <div class="navbar-container bg-primary-3">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary-3" data-sticky="top">
         <div class="container">
             <a class="navbar-brand fade-page" href="\">
-                <img src="https://i.imgur.com/zcVVdnM.gif" alt="TeeGee" style="width: 250px;">
+                <img src="https://i.imgur.com/utXf5Ia.gif" alt="TeeGee" style="width: 250px;">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
               <img class="icon navbar-toggler-open" src="assets/img/icons/interface/menu.svg" alt="menu interface icon" data-inject-svg />
@@ -60,7 +60,7 @@
             <div class="py-2 py-lg-0">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a href="contact"  class="nav-link"><img class="icon bg-dark" style="height: 30px;" src="assets/img/icons/theme/communication/group-chat.svg" alt="decoration" data-inject-svg />Talk to me</a>
+                  <a href="contact"  class="nav-link"><img class="icon bg-white" style="height: 30px;" src="assets/img/icons/theme/communication/group-chat.svg" alt="decoration" data-inject-svg />Talk to me</a>
                 </li>
               </ul>
             </div>

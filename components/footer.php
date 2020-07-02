@@ -10,14 +10,11 @@
         <div class="row mb-4">
           <div class="col">
             <ul class="nav justify-content-center">
-            <li class="nav-item">
-                  <a href="about" class="nav-link">About</a>
-                </li>
                 <li class="nav-item">
                   <a href="learn" class="nav-link">Learn</a>
                 </li>
                 <li class="nav-item">
-                  <a href="portfolio" class="nav-link">Portfolio</a>
+                  <a href="#" class="nav-link">Portfolio</a>
                 </li>
                 <li class="nav-item">
                   <a href="https://medium.com/@codystack" class="nav-link">Blog</a>

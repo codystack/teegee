@@ -45,7 +45,7 @@
                   <a href="learn" class="nav-link">Learn</a>
                 </li>
                 <li class="nav-item">
-                  <a href="portfolio" class="nav-link">Portfolio</a>
+                  <a href="#" class="nav-link">Portfolio</a>
                 </li>
                 <li class="nav-item">
                   <a href="https://medium.com/@codystack" class="nav-link">Blog</a>

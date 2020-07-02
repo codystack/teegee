@@ -11922,7 +11922,7 @@ section.has-divider {
     padding: 0;
 }
 section.has-divider .container {
-    padding-top: 6rem;
+    padding-top: 3rem;
     padding-bottom: 6rem;
 }
 body.compensate-for-scrollbar {
