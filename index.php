@@ -4,7 +4,7 @@
         <div class="row justify-content-center text-center mb-6">
           <div class="col-xl-8 col-lg-9 col-md-10">
             <img src="https://i.imgur.com/RZTgr1f.png" style="width: 350px;" class="mypic" data-aos="fade-up" data-aos-delay="100">
-            <h1 class="display-4">Everything looks beautiful in black and white.</h1>
+            <h1 class="display-4">Everything looks good in black and white.</h1>
             <p class="lead">Hi. I'm ThankGod Okoro also known as TeeGee. I'm a Software developer/programmer, Web + App Developer, UI/UX Designer, Brand Strategist & Product/Graphic Designer. </p>
             <div class="flex-column flex-sm-row justify-content-center align-items-center align-items-sm-start">
               <div class="flex-column mx-1 text-center">

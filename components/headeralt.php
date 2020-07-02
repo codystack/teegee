@@ -42,9 +42,6 @@
             <div class="py-2 py-lg-0">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a href="about" class="nav-link">About</a>
-                </li>
-                <li class="nav-item">
                   <a href="learn" class="nav-link">Learn</a>
                 </li>
                 <li class="nav-item">

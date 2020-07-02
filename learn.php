@@ -2,8 +2,7 @@
 <html lang="en">
 
   
-<!-- Mirrored from leap.mediumra.re/about-company.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:02:33 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -34,7 +33,7 @@
     <script type="text/javascript">
       window.addEventListener("load", function () {    document.querySelector('body').classList.add('loaded');  });
     </script>
-    <link href="assets/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="assets/css/theme-course.min.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="preload" as="font" href="assets/fonts/Inter-UI-upright.var.woff2" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" as="font" href="assets/fonts/Inter-UI.var.woff2" type="font/woff2" crossorigin="anonymous">
   </head>
@@ -44,8 +43,8 @@
       <div class="loading-animation"></div>
     </div>
 
-    <div class="navbar-container ">
-      <nav class="navbar navbar-expand-lg navbar-dark" data-overlay data-sticky="top">
+    <div class="navbar-container bg-primary-3">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary-3" data-sticky="top">
         <div class="container">
           <a class="navbar-brand fade-page" href="index-2.html">
             <img src="assets/img/logo-white.svg" alt="Leap">
@@ -322,206 +321,507 @@
       </nav>
     </div>
 
-    <section class="bg-dark text-light header-inner p-0 jarallax o-hidden" data-overlay data-jarallax data-speed="0.2">
-      <img src="assets/img/inner-1.jpg" alt="Image" class="jarallax-img opacity-30">
-      <div class="container py-0 layer-2">
-        <div class="row my-3">
+    <section class="bg-primary-3 has-divider text-light o-hidden">
+      <div class="container layer-2">
+        <div class="row justify-content-center pt-lg-5">
+          <div class="col-xl-5 col-lg-6 col-md-7 text-center text-lg-left mb-5 mb-lg-0">
+            <h1 class="display-3">Learn how to build better websites.</h1>
+            <div class="my-4">
+              <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
+            </div>
+            <div class="d-flex justify-content-center justify-content-lg-start">
+              <div class="d-flex mr-2">
+                <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+              </div>
+              <span>(Average score: 4.9/5)</span>
+            </div>
+          </div>
           <div class="col">
-            <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item">
-                  <a href="index-2.html">Home</a>
-                </li>
-                <li class="breadcrumb-item">
-                  <a href="#">Pages</a>
-                </li>
-                <li class="breadcrumb-item active" aria-current="page">Current Page</li>
-              </ol>
-            </nav>
-          </div>
-        </div>
-        <div class="row my-4 my-md-6" data-aos="fade-up">
-          <div class="col-lg-9 col-xl-8">
-            <h1 class="display-4">About Us</h1>
-            <p class="lead mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
-          </div>
-        </div>
-      </div>
-      <div class="decoration-wrapper">
-        <div class="decoration bottom right d-none d-md-block" data-jarallax-element="100 100">
-          <img class="bg-primary-2" src="assets/img/decorations/deco-blob-1.svg" alt="deco-blob-1 decoration" data-inject-svg />
-        </div>
-      </div>
-      <div class="divider flip-x">
-        <img src="assets/img/dividers/divider-1.svg" alt="graphical divider" data-inject-svg />
-      </div>
-    </section>
-    <section>
-      <div class="container">
-        <div class="row mb-4">
-          <div class="col">
-            <h2>At a glance</h2>
-          </div>
-        </div>
-        <div class="row justify-content-center">
-          <div class="col-6 mb-3 col-lg-3 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
-            <span class="display-4 text-primary d-block" data-countup data-start="4567" data-end="73000" data-duration="3" data-grouping="true"></span>
-            <span class="h6">Monthly Active Users</span>
-          </div>
-          <div class="col-6 mb-3 col-lg-3 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-            <span class="display-4 text-primary d-block" data-countup data-start="1" data-end="25" data-duration="3" data-grouping="true"></span>
-            <span class="h6">Team Members</span>
-          </div>
-          <div class="col-6 mb-3 col-lg-3 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <span class="display-4 text-primary d-block" data-countup data-start="1" data-end="5069" data-duration="3" data-grouping="true"></span>
-            <span class="h6">User Projects Published</span>
-          </div>
-          <div class="col-6 mb-3 col-lg-3 mb-lg-0" data-aos="fade-up" data-aos-delay="400">
-            <span class="display-4 text-primary d-block" data-countup data-start="1" data-end="99.9" data-decimal-places="1" data-duration="3" data-grouping="true" data-suffix="%"></span>
-            <span class="h6">Server Uptime</span>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section>
-      <div class="container" data-aos="fade-up">
-        <div class="row align-items-center justify-content-around">
-          <div class="col-md-5 col-xl-6 mb-4 mb-md-0">
-            <img src="assets/img/inner-2.jpg" alt="Image" class="rounded shadow-3d">
-          </div>
-          <div class="col-md-7 col-xl-6">
             <div class="row justify-content-center">
-              <div class="col-xl-8 col-lg-10">
-                <span class="badge badge-primary">Our Mission</span>
-                <div class="my-3">
-                  <span class="h1">Change the game through design.</span>
+              <div class="col-xl-8 col-md-10">
+                <form>
+                  <div class="form-group">
+                    <label for="course-name-1">Your Name</label>
+                    <input name="course-name" id="course-name-1" type="text" class="form-control form-control-lg" placeholder="Type your name">
+                  </div>
+                  <div class="form-group">
+                    <label for="course-email-1">Email Address</label>
+                    <input name="course-email" id="course-email-1" type="email" class="form-control form-control-lg" placeholder="you@yoursite.com">
+                  </div>
+                  <div class="row">
+                    <div class="col-12">
+                      <div class="form-group mb-1">
+                        <label>Skill Level:</label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="form-group rounded bg-white p-2 border">
+                        <div class="custom-control custom-radio">
+                          <input type="radio" id="course-radio-beginner-1" name="course-radio-1" class="custom-control-input">
+                          <label class="custom-control-label" for="course-radio-beginner-1">Beginner</label>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="form-group rounded bg-white p-2 border">
+                        <div class="custom-control custom-radio">
+                          <input type="radio" id="course-radio-advanced-1" name="course-radio-1" class="custom-control-input">
+                          <label class="custom-control-label" for="course-radio-advanced-1">Advanced</label>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="form-group text-center">
+                    <button class="btn btn-lg btn-primary btn-block mb-2" type="submit">Claim your free first lesson</button>
+                    <small>You’ll recieve your first lesson via email in less than a minute.</small>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="decoration-wrapper d-none d-sm-block">
+        <div data-jarallax-element="0 50">
+          <div class="decoration top middle-y scale-5">
+            <img class="bg-primary-2" src="assets/img/decorations/deco-blob-9.svg" alt="deco-blob-9 decoration" data-inject-svg />
+          </div>
+        </div>
+      </div>
+      <div class="divider">
+        <img class="bg-primary-alt" src="assets/img/dividers/divider-2.svg" alt="divider graphic" data-inject-svg />
+      </div>
+    </section>
+    <section class="bg-primary-alt">
+      <div class="container">
+        <div class="row justify-content-between o-hidden">
+          <div class="col-md-6">
+            <h2 class="h1">Relied on by industry professionals.</h2>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+            <ul class="d-flex flex-wrap list-unstyled mt-5">
+              <li class="mr-4 mb-5" data-aos="fade-up" data-aos-delay="100">
+                <img class="icon icon-logo icon-md bg-dark opacity-30" src="assets/img/logos/brand/intercom.svg" alt="icon" data-inject-svg />
+              </li>
+              <li class="mr-4 mb-5" data-aos="fade-up" data-aos-delay="200">
+                <img class="icon icon-logo icon-md bg-dark opacity-30" src="assets/img/logos/brand/slack.svg" alt="icon" data-inject-svg />
+              </li>
+              <li class="mr-4 mb-5" data-aos="fade-up" data-aos-delay="300">
+                <img class="icon icon-logo icon-md bg-dark opacity-30" src="assets/img/logos/brand/spotify.svg" alt="icon" data-inject-svg />
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-5 col-md-6" data-aos="fade-left">
+            <div data-flickity='{ "autoPlay": true, "imagesLoaded": true, "wrapAround": true, "prevNextButtons": false }'>
+              <div class="carousel-cell mx-3 pb-1">
+                <div class="card card-body">
+                  <div class="d-flex mb-3">
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                  </div>
+                  <div class="my-md-2 flex-grow-1">
+                    <h4>
+          &ldquo;I couldn’t have done it without the team from Leap.&rdquo;
+      </h4>
+                  </div>
+                  <div class="avatar-author align-items-center">
+                    <img src="assets/img/avatars/male-1.jpg" alt="Avatar" class="avatar">
+                    <div class="ml-2">
+                      <h6>Benjamin Cameron</h6>
+                      <span>Designer</span>
+                    </div>
+                  </div>
                 </div>
-                <p class="lead">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati.</p>
-                <p class="lead mb-0">Cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+              </div>
+              <div class="carousel-cell mx-3 pb-1">
+                <div class="card card-body">
+                  <div class="d-flex mb-3">
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                  </div>
+                  <div class="my-md-2 flex-grow-1">
+                    <h4>
+          &ldquo;Finally, a template that covers all bases for a bootstrapped startup.&rdquo;
+      </h4>
+                  </div>
+                  <div class="avatar-author align-items-center">
+                    <img src="assets/img/avatars/male-4.jpg" alt="Avatar" class="avatar">
+                    <div class="ml-2">
+                      <h6>Marco Origez</h6>
+                      <span>Developer</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-cell mx-3 pb-1">
+                <div class="card card-body">
+                  <div class="d-flex mb-3">
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                  </div>
+                  <div class="my-md-2 flex-grow-1">
+                    <h4>
+          &ldquo;I fell in love with the design immediately.&rdquo;
+      </h4>
+                  </div>
+                  <div class="avatar-author align-items-center">
+                    <img src="assets/img/avatars/female-4.jpg" alt="Avatar" class="avatar">
+                    <div class="ml-2">
+                      <h6>Helen Shultz</h6>
+                      <span>Business Owner</span>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <section class="p-0">
-      <div class="container py-6">
-        <div class="row mb-4" data-aos="fade-up">
-          <div class="col">
-            <h2>Leadership Team</h2>
+    <section>
+      <div class="container">
+        <div class="row justify-content-center text-center mb-6">
+          <div class="col-xl-8 col-lg-9">
+            <h2 class="display-4 mx-xl-6">What you'll learn</h2>
+            <p class="lead">
+              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.
+            </p>
           </div>
         </div>
-        <div class="row mb-3">
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <span class="badge badge-primary badge-top">Founder</span>
-              <img src="assets/img/avatars/female-1.jpg" alt="Kathleen Wong" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Kathleen Wong</h5>
-              <span>CEO</span>
+        <div class="row justify-content-between align-items-center my-6">
+          <div class="col-md-5 col-lg-6 mb-4 mb-md-0" data-aos="fade-right">
+            <div class="row justify-content-center">
+              <div class="col-xl-9 col-lg-10">
+                <div class="card card-icon-3 card-body justify-content-between shadow-3d rotate-left">
+                  <div class="icon-round mb-3 mb-md-4 icon bg-primary">
+                    <img class="icon bg-primary" src="assets/img/icons/theme/design/color-profile.svg" alt="icon" data-inject-svg />
+                  </div>
+                  <span class="badge bg-primary text-light">3 Lessons</span>
+                  <div>
+                    <h3>Color Theory</h3>
+                    <p class="lead">
+                      Accusantium doloremque laudantium, totam
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <span class="badge badge-primary badge-top">Founder</span>
-              <img src="assets/img/avatars/male-2.jpg" alt="Anil Bhaktar" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Anil Bhaktar</h5>
-              <span>CTO</span>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/male-1.jpg" alt="Andrew Price" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Andrew Price</h5>
-              <span>Software Engineer</span>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/female-2.jpg" alt="Maya Sanders" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Maya Sanders</h5>
-              <span>Experience Designer</span>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/male-4.jpg" alt="Marco Schneider" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Marco Schneider</h5>
-              <span>Experience Designer</span>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/female-4.jpg" alt="Helena Price" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Helena Price</h5>
-              <span>Marketing</span>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/male-5.jpg" alt="Kenneth O'Dowd" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Kenneth O'Dowd</h5>
-              <span>Strategy</span>
-            </div>
+          <div class="col-md-6" data-aos="fade">
+            <h3 class="h1">Color Theory</h3>
+            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+            <ul class="list-unstyled mb-0">
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 1:</span>Natus error sit voluptatem</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 2:</span>Totam rem aperiam, eaque ipsa.</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 3:</span>Accusantium doloremque laudantium, totam rem</span>
+              </li>
+            </ul>
           </div>
         </div>
-        <div class="row">
-          <div class="col">
-            <span>Interested in joining our team? <a href="#">View career openings</a>
+        <div class="row justify-content-between align-items-center my-6">
+          <div class="col-md-5 col-lg-6 mb-4 mb-md-0" data-aos="fade-right">
+            <div class="row justify-content-center">
+              <div class="col-xl-9 col-lg-10">
+                <div class="card card-icon-3 card-body justify-content-between shadow-3d rotate-left">
+                  <div class="icon-round mb-3 mb-md-4 icon bg-primary-2">
+                    <img class="icon bg-primary-2" src="assets/img/icons/theme/devices/display-1.svg" alt="icon" data-inject-svg />
+                  </div>
+                  <span class="badge bg-primary-2 text-light">4 Lessons</span>
+                  <div>
+                    <h3>Screen Design</h3>
+                    <p class="lead">
+                      Accusantium doloremque laudantium, totam
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6" data-aos="fade">
+            <h3 class="h1">Screen Design</h3>
+            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+            <ul class="list-unstyled mb-0">
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
+                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 1:</span>Doloremque laudantium, totam error.</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
+                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 2:</span>Natus error sit voluptatem</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
+                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 3:</span>Totam rem aperiam, eaque ipsa.</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
+                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 4:</span>Accusantium doloremque laudantium, totam rem</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="row justify-content-between align-items-center my-6">
+          <div class="col-md-5 col-lg-6 mb-4 mb-md-0" data-aos="fade-right">
+            <div class="row justify-content-center">
+              <div class="col-xl-9 col-lg-10">
+                <div class="card card-icon-3 card-body justify-content-between shadow-3d rotate-left">
+                  <div class="icon-round mb-3 mb-md-4 icon bg-primary-3">
+                    <img class="icon bg-primary-3" src="assets/img/icons/theme/devices/iphone-x.svg" alt="icon" data-inject-svg />
+                  </div>
+                  <span class="badge bg-primary-3 text-light">4 Lessons</span>
+                  <div>
+                    <h3>Responsive Design</h3>
+                    <p class="lead">
+                      Accusantium doloremque laudantium, totam
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6" data-aos="fade">
+            <h3 class="h1">Responsive Design</h3>
+            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+            <ul class="list-unstyled mb-0">
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
+                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 1:</span>Natus error sit voluptatem</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
+                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 2:</span>Doloremque laudantium, totam error.</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
+                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 3:</span>Accusantium doloremque laudantium, totam rem</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
+                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 4:</span>Totam rem aperiam, eaque ipsa.</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="has-divider bg-primary-alt">
+      <div class="divider flip-y">
+        <img src="assets/img/dividers/divider-2.svg" alt="graphical divider" data-inject-svg />
+      </div>
+      <div class="container" data-aos="fade-up">
+        <div class="row align-items-center justify-content-around">
+          <div class="col-md-5">
+            <img src="assets/img/course-1.jpg" alt="Image" class="rounded-circle layer-2">
+            <div class="decoration bottom left" data-aos="fade-up">
+              <img class="bg-primary" src="assets/img/decorations/deco-blob-10.svg" alt="deco-blob-10 decoration" data-inject-svg />
+            </div>
+            <div class="decoration bottom left" data-aos="fade-right">
+              <img class="bg-primary-2" src="assets/img/decorations/deco-lines-4.svg" alt="deco-lines-4 decoration" data-inject-svg />
+            </div>
+          </div>
+          <div class="col-xl-5 col-md-6">
+            <div class="h1">
+              <div>Howdy, I'm Joe,</div>
+              <span>A</span>
+              <div class="highlight">
+                <span data-typed-text data-loop="true" data-type-speed="65" data-strings='["visual designer","front-end developer","product creator","restless maker"]'></span>
+              </div>
+            </div>
+            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+            <a href="#" class="lead">@joethedesigner</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="bg-primary-alt pt-0">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-xl-8 col-lg-9">
+            <h3 class="h2">Frequently Asked Questions</h3>
+            <div class="my-4">
+              <div class="card mb-2 card-sm card-body hover-shadow-sm" data-aos="fade-up" data-aos-delay="NaN">
+                <div data-target="#panel-1" class="accordion-panel-title" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="panel-1">
+                  <span class="h6 mb-0">Can I change plans later on?</span>
+                  <img class="icon" src="assets/img/icons/interface/plus.svg" alt="plus interface icon" data-inject-svg />
+                </div>
+                <div class="collapse" id="panel-1">
+                  <div class="pt-3">
+                    <p class="mb-0">
+                      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="card mb-2 card-sm card-body hover-shadow-sm" data-aos="fade-up" data-aos-delay="NaN">
+                <div data-target="#panel-2" class="accordion-panel-title" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="panel-2">
+                  <span class="h6 mb-0">What is the difference between Pro and Ultimate?</span>
+                  <img class="icon" src="assets/img/icons/interface/plus.svg" alt="plus interface icon" data-inject-svg />
+                </div>
+                <div class="collapse" id="panel-2">
+                  <div class="pt-3">
+                    <p class="mb-0">
+                      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="card mb-2 card-sm card-body hover-shadow-sm" data-aos="fade-up" data-aos-delay="NaN">
+                <div data-target="#panel-3" class="accordion-panel-title" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="panel-3">
+                  <span class="h6 mb-0">Can I try before I buy?</span>
+                  <img class="icon" src="assets/img/icons/interface/plus.svg" alt="plus interface icon" data-inject-svg />
+                </div>
+                <div class="collapse" id="panel-3">
+                  <div class="pt-3">
+                    <p class="mb-0">
+                      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="card mb-2 card-sm card-body hover-shadow-sm" data-aos="fade-up" data-aos-delay="NaN">
+                <div data-target="#panel-4" class="accordion-panel-title" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="panel-4">
+                  <span class="h6 mb-0">Do you offer bulk discounts?</span>
+                  <img class="icon" src="assets/img/icons/interface/plus.svg" alt="plus interface icon" data-inject-svg />
+                </div>
+                <div class="collapse" id="panel-4">
+                  <div class="pt-3">
+                    <p class="mb-0">
+                      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="card mb-2 card-sm card-body hover-shadow-sm" data-aos="fade-up" data-aos-delay="NaN">
+                <div data-target="#panel-5" class="accordion-panel-title" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="panel-5">
+                  <span class="h6 mb-0">Is this a subscription service?</span>
+                  <img class="icon" src="assets/img/icons/interface/plus.svg" alt="plus interface icon" data-inject-svg />
+                </div>
+                <div class="collapse" id="panel-5">
+                  <div class="pt-3">
+                    <p class="mb-0">
+                      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <span>Still have questions? <a href="#" class="hover-arrow">Get in touch</a>
             </span>
           </div>
         </div>
       </div>
-      <div class="divider" style="">
-        <img class="decoration bg-primary-alt" src="assets/img/dividers/divider-3.svg" alt="divider graphic" data-inject-svg />
-      </div>
     </section>
-    <section class="bg-primary-alt o-hidden">
-      <div class="container">
-        <div class="row mb-4">
-          <div class="col">
-            <h2>Our History</h2>
+    <section class="o-hidden">
+      <div class="container layer-2">
+        <div class="row justify-content-center text-center mb-6">
+          <div class="col-xl-8 col-lg-9">
+            <h2 class="display-4 mx-xl-6">Ready to start?</h2>
+            <p class="lead">
+              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.
+            </p>
           </div>
         </div>
-        <div class="row o-hidden o-lg-visible">
-          <div class="col d-flex flex-column align-items-center">
-            <ol class="process-vertical">
-              <li data-aos="fade-left">
-                <div class="process-circle bg-primary"></div>
-                <div>
-                  <span class="text-small text-muted">October 2016</span>
-                  <h5 class="mb-0">Secured Series-A funding</h5>
+        <div class="row justify-content-center">
+          <div class="col-xl-4 col-lg-5 col-md-6">
+            <form>
+              <div class="form-group">
+                <label for="course-name-2">Your Name</label>
+                <input name="course-name" id="course-name-2" type="text" class="form-control form-control-lg" placeholder="Type your name">
+              </div>
+              <div class="form-group">
+                <label for="course-email-2">Email Address</label>
+                <input name="course-email" id="course-email-2" type="email" class="form-control form-control-lg" placeholder="you@yoursite.com">
+              </div>
+              <div class="row">
+                <div class="col-12">
+                  <div class="form-group mb-1">
+                    <label>Skill Level:</label>
+                  </div>
                 </div>
-              </li>
-              <li data-aos="fade-left">
-                <div class="process-circle bg-primary"></div>
-                <div>
-                  <span class="text-small text-muted">April 2017</span>
-                  <h5 class="mb-0">New CTO: Joe Schultz</h5>
+                <div class="col">
+                  <div class="form-group rounded bg-white p-2 border">
+                    <div class="custom-control custom-radio">
+                      <input type="radio" id="course-radio-beginner-2" name="course-radio-2" class="custom-control-input">
+                      <label class="custom-control-label" for="course-radio-beginner-2">Beginner</label>
+                    </div>
+                  </div>
                 </div>
-              </li>
-              <li data-aos="fade-left">
-                <div class="process-circle bg-primary"></div>
-                <div>
-                  <span class="text-small text-muted">October 2017</span>
-                  <h5 class="mb-0">v1.0 Ships</h5>
+                <div class="col">
+                  <div class="form-group rounded bg-white p-2 border">
+                    <div class="custom-control custom-radio">
+                      <input type="radio" id="course-radio-advanced-2" name="course-radio-2" class="custom-control-input">
+                      <label class="custom-control-label" for="course-radio-advanced-2">Advanced</label>
+                    </div>
+                  </div>
                 </div>
-              </li>
-              <li data-aos="fade-left">
-                <div class="process-circle bg-primary"></div>
-                <div>
-                  <span class="text-small text-muted">February 2018</span>
-                  <h5 class="mb-0">Featured in Wired</h5>
-                </div>
-              </li>
-              <li data-aos="fade-left">
-                <div class="process-circle bg-primary"></div>
-                <div>
-                  <span class="text-small text-muted">September 2018</span>
-                  <h5 class="mb-0">v.20 Ships</h5>
-                </div>
-              </li>
-            </ol>
+              </div>
+              <div class="form-group text-center">
+                <button class="btn btn-lg btn-primary btn-block mb-2" type="submit">Claim your free first lesson</button>
+                <small>You’ll recieve your first lesson via email in less than a minute.</small>
+              </div>
+            </form>
           </div>
+        </div>
+      </div>
+      <div class="decoration-wrapper d-none d-lg-block">
+        <div class="decoration top middle-y scale-2" data-jarallax-element="-50 -50">
+          <img class="bg-primary-2" src="assets/img/decorations/deco-ring-1.svg" alt="deco-ring-1 decoration" data-inject-svg />
+        </div>
+        <div class="decoration middle-y right scale-2" data-jarallax-element="50 0">
+          <img class="bg-primary" src="assets/img/decorations/deco-dots-3.svg" alt="deco-dots-3 decoration" data-inject-svg />
         </div>
       </div>
     </section>
@@ -623,27 +923,27 @@
             <ul class="nav">
               <li class="nav-item">
                 <a href="#" class="nav-link">
-                  <img class="icon undefined" src="assets/img/icons/social/instagram.svg" alt="instagram social icon" data-inject-svg />
+                  <img class="icon icon bg-primary-3" src="assets/img/icons/social/instagram.svg" alt="instagram social icon" data-inject-svg />
                 </a>
               </li>
               <li class="nav-item">
                 <a href="#" class="nav-link">
-                  <img class="icon undefined" src="assets/img/icons/social/twitter.svg" alt="twitter social icon" data-inject-svg />
+                  <img class="icon icon bg-primary-3" src="assets/img/icons/social/twitter.svg" alt="twitter social icon" data-inject-svg />
                 </a>
               </li>
               <li class="nav-item">
                 <a href="#" class="nav-link">
-                  <img class="icon undefined" src="assets/img/icons/social/youtube.svg" alt="youtube social icon" data-inject-svg />
+                  <img class="icon icon bg-primary-3" src="assets/img/icons/social/youtube.svg" alt="youtube social icon" data-inject-svg />
                 </a>
               </li>
               <li class="nav-item">
                 <a href="#" class="nav-link">
-                  <img class="icon undefined" src="assets/img/icons/social/medium.svg" alt="medium social icon" data-inject-svg />
+                  <img class="icon icon bg-primary-3" src="assets/img/icons/social/medium.svg" alt="medium social icon" data-inject-svg />
                 </a>
               </li>
               <li class="nav-item">
                 <a href="#" class="nav-link">
-                  <img class="icon undefined" src="assets/img/icons/social/facebook.svg" alt="facebook social icon" data-inject-svg />
+                  <img class="icon icon bg-primary-3" src="assets/img/icons/social/facebook.svg" alt="facebook social icon" data-inject-svg />
                 </a>
               </li>
             </ul>
@@ -729,5 +1029,5 @@
   </body>
 
 
-<!-- Mirrored from leap.mediumra.re/about-company.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:02:33 GMT -->
+<!-- Mirrored from leap.mediumra.re/home-course.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:00:42 GMT -->
 </html>
