@@ -29,3 +29,5 @@ if(talk_to_me  || contact){
     title_el.innerHTML = "Voters :: Vote Online&trade;";
     talk_to_me.classList.add('active');
 }
+
+

@@ -79,17 +79,17 @@
       <div class="container">
         <div class="row justify-content-between o-hidden">
           <div class="col-md-6">
-            <h2 class="h1">Relied on by industry professionals.</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+            <h2 class="h1">Feautred on by industry professionals.</h2>
+            <p class="lead">Few list of brands that i have been feautred on.</p>
             <ul class="d-flex flex-wrap list-unstyled mt-5">
               <li class="mr-4 mb-5" data-aos="fade-up" data-aos-delay="100">
-                <img class="icon icon-logo icon-md bg-dark opacity-30" src="assets/img/logos/brand/intercom.svg" alt="icon" data-inject-svg />
+                <img class="icon icon-logo icon-md bg-dark opacity-100" src="assets/img/logos/brand/iAcademy.svg" alt="iAcademy" data-inject-svg />
               </li>
               <li class="mr-4 mb-5" data-aos="fade-up" data-aos-delay="200">
-                <img class="icon icon-logo icon-md bg-dark opacity-30" src="assets/img/logos/brand/slack.svg" alt="icon" data-inject-svg />
+                <img class="icon icon-logo icon-md bg-dark opacity-100" src="assets/img/logos/brand/havesters.svg" alt="Havesters" data-inject-svg />
               </li>
               <li class="mr-4 mb-5" data-aos="fade-up" data-aos-delay="300">
-                <img class="icon icon-logo icon-md bg-dark opacity-30" src="assets/img/logos/brand/spotify.svg" alt="icon" data-inject-svg />
+                <img class="icon icon-logo icon-md bg-dark opacity-100" src="assets/img/logos/brand/tnq.svg" alt="Nigerian Queen" data-inject-svg />
               </li>
             </ul>
           </div>

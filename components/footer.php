@@ -134,9 +134,13 @@
     <script type="text/javascript" src="assets/js/custom.js"></script>
 
     <script type="text/javascript">
-      // This script appears only in the demo - it disables forms with no action attribute to prevent 
-      // navigating away from the page.
       jQuery("form:not([action])").on('submit', function(){return false;});
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#subscribe-modal").modal('show');
+        });
     </script>
 
   </body>

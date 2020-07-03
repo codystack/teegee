@@ -68,9 +68,9 @@
                     Aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
                   </p>
                   <blockquote class="bg-primary-alt">
-    <div class="h3 mb-2">“We couldn’t have done it without the hard-working team from Leap.”</div>
-    <span class="text-small text-muted">– Harvey Dent (via Tareq I.)</span>
-    <a href="#" class="btn btn-primary btn-sm">
+    <div class="h3 mb-2">“The best investment you can leave for your children is a LEGACY”</div>
+    <span class="text-small text-muted">– ThankGod Okoro (2020)</span>
+    <a href="https://twitter.com/phatboitee/" class="btn btn-primary btn-sm">
       <img class="icon" src="assets/img/icons/social/twitter.svg" alt="twitter social icon" data-inject-svg />
       <span>Tweet</span>
     </a>

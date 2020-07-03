@@ -83,7 +83,7 @@
               <div class="mx-2 text-center">
                 <div class="d-flex align-items-center">
                   <span class="h3 mb-0">$</span>
-                  <span class="display-3">99</span>
+                  <span class="display-3">99.9</span>
                 </div>
                 <span class="text-small">Price Includes VAT.</span>
               </div>

@@ -1,40 +1,23 @@
 <!doctype html>
 <html lang="en">
 
-  
-<!-- Mirrored from leap.mediumra.re/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:02:53 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52115242-16"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    
-      gtag('config', 'UA-52115242-16');
-    </script>
-    <!-- Google Tag Manager -->
-    <script>
-      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      '../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-KG38NH9');
-    </script>
-    <!-- End Google Tag Manager -->
     <meta charset="utf-8">
-    <title>Leap Bootstrap Theme and HTML Template</title>
+    <title>TG&trade; :: Web + App Developer, UI/UX Designer, Product Designer & Graphic Designer.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A corporate Bootstrap theme by Medium Rare">
+    <meta name="description" content="ThankGod Okoro is a Software developer/programmer, Web + App Developer, UI/UX Designer, Brand Strategist & Product/Graphic Designer.">
+    <meta name="keywords" content="ThankGodOkoro.codes,TG,codes,ThankGod,Okoro,software,developer,development,programmer,programming,coder,coding,blogger,blogging,digital,creator,creation,graphic designer,product designer,product,graphics,branding">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://i.imgur.com/FDaWgtt.png" />
     <style>
       @keyframes hideLoader{0%{ width: 100%; height: 100%; }100%{ width: 0; height: 0; }  }  body > div.loader{ position: fixed; background: white; width: 100%; height: 100%; z-index: 1071; opacity: 0; transition: opacity .5s ease; overflow: hidden; pointer-events: none; display: flex; align-items: center; justify-content: center;}body:not(.loaded) > div.loader{ opacity: 1;}body:not(.loaded){ overflow: hidden;}  body.loaded > div.loader{animation: hideLoader .5s linear .5s forwards;  } /* Typing Animation */.loading-animation {width: 6px;height: 6px;border-radius: 50%;animation: typing 1s linear infinite alternate;position: relative;left: -12px;}@keyframes typing {0% {background-color: rgba(100,100,100, 1);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 0.2),24px 0px 0px 0px rgba(100,100,100, 0.2);}25% {background-color: rgba(100,100,100, 0.4);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 2),24px 0px 0px 0px rgba(100,100,100, 0.2);}75% {background-color: rgba(100,100,100, 0.4);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 0.2),24px 0px 0px 0px rgba(100,100,100, 1);}}
     </style>
     <script type="text/javascript">
       window.addEventListener("load", function () {    document.querySelector('body').classList.add('loaded');  });
     </script>
-    <link href="assets/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="assets/css/theme-software-library.min.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="preload" as="font" href="assets/fonts/Inter-UI-upright.var.woff2" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" as="font" href="assets/fonts/Inter-UI.var.woff2" type="font/woff2" crossorigin="anonymous">
   </head>
@@ -49,7 +32,7 @@
         <div class="row justify-content-center mb-md-6">
           <div class="col-auto">
             <a href="index-2.html">
-              <img src="assets/img/logo-white.svg" alt="Leap">
+            <img src="https://i.imgur.com/utXf5Ia.gif" alt="TeeGee" style="width: 250px;">
             </a>
           </div>
         </div>
@@ -57,8 +40,8 @@
           <div class="col layer-2">
             <h1 class="display-1 mb-0">404</h1>
             <h2 class="h1">Page not found</h2>
-            <div class="lead mb-4">It appears the page you were looking for couldn’t be found.</div>
-            <a class="btn btn-primary btn-lg" href="index-2.html">Go back to home</a>
+            <div class="lead mb-4">What are you looking for that i don't have? <br>please just hit the button below.</div>
+            <a class="btn btn-primary btn-lg" href="\">Go back to home</a>
           </div>
         </div>
       </div>
@@ -139,13 +122,9 @@
     <script type="text/javascript" src="assets/js/theme.js"></script>
 
     <script type="text/javascript">
-      // This script appears only in the demo - it disables forms with no action attribute to prevent 
-      // navigating away from the page.
-      jQuery("form:not([action])").on('submit', function(){return false;});
+      jQuery("form:not([action])").on('submit', function(){return true;});
     </script>
 
   </body>
 
-
-<!-- Mirrored from leap.mediumra.re/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:02:53 GMT -->
 </html>
