@@ -80,7 +80,7 @@
         <div class="row justify-content-between o-hidden">
           <div class="col-md-6">
             <h2 class="h1">Feautred on by industry professionals.</h2>
-            <p class="lead">Few list of brands that i have been feautred on.</p>
+            <p class="lead">Few list of brands that i have been feautred on:</p>
             <ul class="d-flex flex-wrap list-unstyled mt-5">
               <li class="mr-4 mb-5" data-aos="fade-up" data-aos-delay="100">
                 <img class="icon icon-logo icon-md bg-dark opacity-100" src="assets/img/logos/brand/iAcademy.svg" alt="iAcademy" data-inject-svg />
@@ -96,72 +96,12 @@
           <div class="col-lg-5 col-md-6" data-aos="fade-left">
             <div data-flickity='{ "autoPlay": true, "imagesLoaded": true, "wrapAround": true, "prevNextButtons": false }'>
               <div class="carousel-cell mx-3 pb-1">
-                <div class="card card-body">
-                  <div class="d-flex mb-3">
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
+                <a href="assets/img/article-3.jpg" data-fancybox="Collage Gallery" class="d-none d-lg-block">
+                  <div data-jarallax-element="0 12">
+                    <img src="assets/img/article-3.jpg" alt="Image" class="rounded" data-aos="fade-right">
                   </div>
-                  <div class="my-md-2 flex-grow-1">
-                    <h4>
-          &ldquo;I couldn’t have done it without the team from Leap.&rdquo;
-      </h4>
-                  </div>
-                  <div class="avatar-author align-items-center">
-                    <img src="assets/img/avatars/male-1.jpg" alt="Avatar" class="avatar">
-                    <div class="ml-2">
-                      <h6>Benjamin Cameron</h6>
-                      <span>Designer</span>
-                    </div>
-                  </div>
-                </div>
+                </a>
               </div>
-              <div class="carousel-cell mx-3 pb-1">
-                <div class="card card-body">
-                  <div class="d-flex mb-3">
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                  </div>
-                  <div class="my-md-2 flex-grow-1">
-                    <h4>
-          &ldquo;Finally, a template that covers all bases for a bootstrapped startup.&rdquo;
-      </h4>
-                  </div>
-                  <div class="avatar-author align-items-center">
-                    <img src="assets/img/avatars/male-4.jpg" alt="Avatar" class="avatar">
-                    <div class="ml-2">
-                      <h6>Marco Origez</h6>
-                      <span>Developer</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="carousel-cell mx-3 pb-1">
-                <div class="card card-body">
-                  <div class="d-flex mb-3">
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                    <img class="icon bg-warning" src="assets/img/icons/interface/star.svg" alt="star interface icon" data-inject-svg />
-                  </div>
-                  <div class="my-md-2 flex-grow-1">
-                    <h4>
-          &ldquo;I fell in love with the design immediately.&rdquo;
-      </h4>
-                  </div>
-                  <div class="avatar-author align-items-center">
-                    <img src="assets/img/avatars/female-4.jpg" alt="Avatar" class="avatar">
-                    <div class="ml-2">
-                      <h6>Helen Shultz</h6>
-                      <span>Business Owner</span>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
@@ -175,7 +115,7 @@
           <div class="col-xl-8 col-lg-9">
             <h2 class="display-4 mx-xl-6">What you'll learn</h2>
             <p class="lead">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.
+              So here are the few things you will be learning to be be one step closer to being a developer, what you need is just dedication and practice.
             </p>
           </div>
         </div>
@@ -199,7 +139,7 @@
             </div>
           </div>
           <div class="col-md-6" data-aos="fade">
-            <h3 class="h1">Web Design</h3>
+            <h3 class="h1">Web Design <sup><small>Beginner</small></sup></h3>
             <p class="lead">The lessons below are to help you in the first phase of being a web developer, at the end of this course you will be able to build a resposive and dynamic website.</p>
             <ul class="list-unstyled mb-0">
               <li class="d-flex py-2">
@@ -253,8 +193,8 @@
             </div>
           </div>
           <div class="col-md-6" data-aos="fade">
-            <h3 class="h1">Web Development</h3>
-            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+            <h3 class="h1">Web Development <sup><small>Advanced</small></sup></h3>
+            <p class="lead">The lessons below will teach you how to build and deploy real life webapp like Facebook and more, you will be able to build almost anything on the web, don't waste much time. Get started!</p>
             <ul class="list-unstyled mb-0">
               <li class="d-flex py-2">
                 <div class="icon-round icon-round-xs bg-primary mr-2">
