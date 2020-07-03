@@ -14,7 +14,7 @@
                   <a href="learn" class="nav-link">Learn</a>
                 </li>
                 <li class="nav-item">
-                  <a href="#" class="nav-link">Portfolio</a>
+                  <a href="portfolio" class="nav-link">Portfolio</a>
                 </li>
                 <li class="nav-item">
                   <a href="https://medium.com/@codystack" class="nav-link">Blog</a>
@@ -131,6 +131,7 @@
     <script type="text/javascript" src="assets/js/typed.min.js"></script>
     <!-- Required theme scripts (Do not remove) -->
     <script type="text/javascript" src="assets/js/theme.js"></script>
+    <script type="text/javascript" src="assets/js/custom.js"></script>
 
     <script type="text/javascript">
       // This script appears only in the demo - it disables forms with no action attribute to prevent 

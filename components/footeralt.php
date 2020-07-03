@@ -1,76 +1,56 @@
-<!doctype html>
-<html lang="en">
-
-  
-<!-- Mirrored from leap.mediumra.re/account-forgot-password.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:02:54 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
-<head>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52115242-16"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    
-      gtag('config', 'UA-52115242-16');
-    </script>
-    <!-- Google Tag Manager -->
-    <script>
-      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      '../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-KG38NH9');
-    </script>
-    <!-- End Google Tag Manager -->
-    <meta charset="utf-8">
-    <title>Leap Bootstrap Theme and HTML Template</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A corporate Bootstrap theme by Medium Rare">
-    <style>
-      @keyframes hideLoader{0%{ width: 100%; height: 100%; }100%{ width: 0; height: 0; }  }  body > div.loader{ position: fixed; background: white; width: 100%; height: 100%; z-index: 1071; opacity: 0; transition: opacity .5s ease; overflow: hidden; pointer-events: none; display: flex; align-items: center; justify-content: center;}body:not(.loaded) > div.loader{ opacity: 1;}body:not(.loaded){ overflow: hidden;}  body.loaded > div.loader{animation: hideLoader .5s linear .5s forwards;  } /* Typing Animation */.loading-animation {width: 6px;height: 6px;border-radius: 50%;animation: typing 1s linear infinite alternate;position: relative;left: -12px;}@keyframes typing {0% {background-color: rgba(100,100,100, 1);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 0.2),24px 0px 0px 0px rgba(100,100,100, 0.2);}25% {background-color: rgba(100,100,100, 0.4);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 2),24px 0px 0px 0px rgba(100,100,100, 0.2);}75% {background-color: rgba(100,100,100, 0.4);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 0.2),24px 0px 0px 0px rgba(100,100,100, 1);}}
-    </style>
-    <script type="text/javascript">
-      window.addEventListener("load", function () {    document.querySelector('body').classList.add('loaded');  });
-    </script>
-    <link href="assets/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
-    <link rel="preload" as="font" href="assets/fonts/Inter-UI-upright.var.woff2" type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" as="font" href="assets/fonts/Inter-UI.var.woff2" type="font/woff2" crossorigin="anonymous">
-  </head>
-
-  <body>
-    <div class="loader">
-      <div class="loading-animation"></div>
-    </div>
-
-    <section class="min-vh-100 py-5">
+<footer class="pb-5 bg-primary-3 text-light">
       <div class="container">
-        <div class="row justify-content-center mb-md-6">
-          <div class="col-auto">
-            <a href="index-2.html">
-              <img src="assets/img/logo.svg" alt="Leap">
-            </a>
+        <div class="row">
+          <div class="col">
+            <div class="h1">Interested in collaborating?</div>
+            <div class="my-5">
+              <a href="contact" class="btn btn-lg btn-primary">Get In Touch</a>
+            </div>
           </div>
         </div>
-        <div class="row justify-content-center pt-6">
-          <div class="col-xl-4 col-lg-5 col-md-6">
-            <div class="text-center mb-4">
-              <h1 class="mb-1">Forgot Password</h1>
-              <span>Enter your details to recieve a reset link</span>
-            </div>
-            <form>
-              <div class="form-group">
-                <input type="email" name="forgot-password-email" placeholder="Email Address" class="form-control">
-              </div>
-              <div class="form-group">
-                <button class="btn-block btn btn-primary" type="submit">Send Reset Link</button>
-              </div>
-            </form>
+        <div class="row mb-4">
+          <div class="col">
+            <ul class="nav">
+                <li class="nav-item">
+                <a href="https://www.instagram.com/phatboitee/" class="nav-link">
+                    <img class="icon undefined" src="assets/img/icons/social/instagram.svg" target="_blank" alt="instagram social icon" data-inject-svg />
+                </a>
+                </li>
+                <li class="nav-item">
+                <a href="https://www.twitter.com/phatboitee/" class="nav-link">
+                    <img class="icon undefined" src="assets/img/icons/social/twitter.svg" target="_blank" alt="twitter social icon" data-inject-svg />
+                </a>
+                </li>
+                <li class="nav-item">
+                <a href="https://dribbble.com/codystack" class="nav-link">
+                    <img class="icon undefined" src="assets/img/icons/social/dribbble.svg" target="_blank" alt="youtube social icon" data-inject-svg />
+                </a>
+                </li>
+                <li class="nav-item">
+                <a href="https://github.com/codystack" class="nav-link">
+                    <img class="icon undefined" src="assets/img/icons/social/github.svg" target="_blank" alt="youtube social icon" data-inject-svg />
+                </a>
+                </li>
+                <li class="nav-item">
+                <a href="https://medium.com/@codystack" class="nav-link">
+                    <img class="icon undefined" src="assets/img/icons/social/medium.svg" target="_blank" alt="medium social icon" data-inject-svg />
+                </a>
+                </li>
+                <li class="nav-item">
+                <a href="https://web.facebook.com/thankgod.okoro1" class="nav-link">
+                    <img class="icon undefined" src="assets/img/icons/social/facebook.svg" target="_blank" alt="facebook social icon" data-inject-svg />
+                </a>
+                </li>
+            </ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-auto">
+            <small class="text-muted">&copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved. ThankGod {Codes}&trade; is a registered trademark of <br>Contagious Agency LTD. RC 1558987</small>
           </div>
         </div>
       </div>
-    </section>
+    </footer>
 
     <!-- Required vendor scripts (Do not remove) -->
     <script type="text/javascript" src="assets/js/jquery.min.js"></script>
@@ -141,5 +121,5 @@
   </body>
 
 
-<!-- Mirrored from leap.mediumra.re/account-forgot-password.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:02:54 GMT -->
+
 </html>

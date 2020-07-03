@@ -53,7 +53,7 @@
             <div class="rounded bg-primary-3 p-4 text-light text-monospace shadow layer-2">
               <div>
                 <span class="text-primary-2">$</span>
-                <span data-typed-text data-type-speed="80" data-strings='["Do you need consultation on your next project?","I can help you.","Do you need the coolest frontend design/development?","Say no more...","Just hit the hire me button up there for anything you need :)"]' data-loop="true" data-back-delay="2000"></span>
+                <span data-typed-text data-type-speed="80" data-strings='["Do you need consultation on your next project?","I can help you.","Do you need the coolest frontend design/development?","Say no more...","Just hit the hire me button up there for anything you need😉","The $ sign there means money has to be involved.😁"]' data-loop="true" data-back-delay="2000"></span>
               </div>
             </div>
             <div class="decoration bottom right" data-aos="fade-up">

@@ -5903,7 +5903,7 @@ button.bg-primary-2:hover {
     background-color: #15343a !important;
 }
 .bg-primary-3 {
-    background-color: #040303 !important;
+    background-color: #020122 !important;
 }
 .bg-primary-4 {
     background-color: #0e656e !important;
@@ -10021,6 +10021,10 @@ img {
 }
 .navbar[data-sticky="top"].scrolled.navbar-dark {
     background: #0e656e;
+    border-bottom-color: transparent;
+}
+.navbar[data-sticky="top"].scrolled.navbar-darkalt {
+    background: #020122;
     border-bottom-color: transparent;
 }
 .navbar[data-sticky="top"].scrolled.navbar-light {

@@ -41,11 +41,11 @@
             <div class="collapse navbar-collapse">
             <div class="py-2 py-lg-0">
               <ul class="navbar-nav">
-                <li class="nav-item">
+                <li class="nav-item teegee">
                   <a href="learn" class="nav-link">Learn</a>
                 </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">Portfolio</a>
+                <li class="nav-item teegee">
+                  <a href="portfolio" class="nav-link">Portfolio</a>
                 </li>
                 <li class="nav-item">
                   <a href="https://medium.com/@codystack" class="nav-link">Blog</a>
@@ -59,7 +59,7 @@
           <div class="collapse navbar-collapse justify-content-end">
             <div class="py-2 py-lg-0">
               <ul class="navbar-nav">
-                <li class="nav-item">
+                <li class="nav-item talk_to_me">
                   <a href="contact"  class="nav-link"><img class="icon bg-dark" style="height: 30px;" src="assets/img/icons/theme/communication/group-chat.svg" alt="decoration" data-inject-svg />Talk to me</a>
                 </li>
               </ul>
