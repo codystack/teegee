@@ -185,13 +185,13 @@
               <div class="col-xl-9 col-lg-10">
                 <div class="card card-icon-3 card-body justify-content-between shadow-3d rotate-left">
                   <div class="icon-round mb-3 mb-md-4 icon bg-primary">
-                    <img class="icon bg-primary" src="assets/img/icons/theme/design/color-profile.svg" alt="icon" data-inject-svg />
+                    <img class="icon bg-primary" src="assets/img/icons/theme/design/bezier-curve.svg" alt="icon" data-inject-svg />
                   </div>
-                  <span class="badge bg-primary text-light">3 Lessons</span>
+                  <span class="badge bg-primary text-light">4 Lessons</span>
                   <div>
-                    <h3>Color Theory</h3>
+                    <h3>Web Design</h3>
                     <p class="lead">
-                      Accusantium doloremque laudantium, totam
+                      You will be learning the basics of building a website.
                     </p>
                   </div>
                 </div>
@@ -199,29 +199,36 @@
             </div>
           </div>
           <div class="col-md-6" data-aos="fade">
-            <h3 class="h1">Color Theory</h3>
-            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+            <h3 class="h1">Web Design</h3>
+            <p class="lead">The lessons below are to help you in the first phase of being a web developer, at the end of this course you will be able to build a resposive and dynamic website.</p>
             <ul class="list-unstyled mb-0">
               <li class="d-flex py-2">
                 <div class="icon-round icon-round-xs bg-primary mr-2">
                   <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
                 </div>
                 <span>
-                  <span class="font-weight-bold">Lesson 1:</span>Natus error sit voluptatem</span>
+                  <span class="font-weight-bold">Lesson 1:</span> HTML</span>
               </li>
               <li class="d-flex py-2">
                 <div class="icon-round icon-round-xs bg-primary mr-2">
                   <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
                 </div>
                 <span>
-                  <span class="font-weight-bold">Lesson 2:</span>Totam rem aperiam, eaque ipsa.</span>
+                  <span class="font-weight-bold">Lesson 2:</span> CSS</span>
               </li>
               <li class="d-flex py-2">
                 <div class="icon-round icon-round-xs bg-primary mr-2">
                   <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
                 </div>
                 <span>
-                  <span class="font-weight-bold">Lesson 3:</span>Accusantium doloremque laudantium, totam rem</span>
+                  <span class="font-weight-bold">Lesson 3:</span> Bootstrap</span>
+              </li>
+              <li class="d-flex py-2">
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                </div>
+                <span>
+                  <span class="font-weight-bold">Lesson 4:</span> Wordpress</span>
               </li>
             </ul>
           </div>
@@ -231,12 +238,12 @@
             <div class="row justify-content-center">
               <div class="col-xl-9 col-lg-10">
                 <div class="card card-icon-3 card-body justify-content-between shadow-3d rotate-left">
-                  <div class="icon-round mb-3 mb-md-4 icon bg-primary-2">
-                    <img class="icon bg-primary-2" src="assets/img/icons/theme/devices/display-1.svg" alt="icon" data-inject-svg />
+                  <div class="icon-round mb-3 mb-md-4 icon bg-primary">
+                    <img class="icon bg-primary" src="assets/img/icons/theme/code/code.svg" alt="icon" data-inject-svg />
                   </div>
-                  <span class="badge bg-primary-2 text-light">4 Lessons</span>
+                  <span class="badge bg-primary text-light">4 Lessons</span>
                   <div>
-                    <h3>Screen Design</h3>
+                    <h3>Web Development</h3>
                     <p class="lead">
                       Accusantium doloremque laudantium, totam
                     </p>
@@ -246,90 +253,36 @@
             </div>
           </div>
           <div class="col-md-6" data-aos="fade">
-            <h3 class="h1">Screen Design</h3>
+            <h3 class="h1">Web Development</h3>
             <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
             <ul class="list-unstyled mb-0">
               <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
-                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
                 </div>
                 <span>
-                  <span class="font-weight-bold">Lesson 1:</span>Doloremque laudantium, totam error.</span>
+                  <span class="font-weight-bold">Lesson 1:</span> SQL</span>
               </li>
               <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
-                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
                 </div>
                 <span>
-                  <span class="font-weight-bold">Lesson 2:</span>Natus error sit voluptatem</span>
+                  <span class="font-weight-bold">Lesson 2:</span> PHP</span>
               </li>
               <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
-                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
                 </div>
                 <span>
-                  <span class="font-weight-bold">Lesson 3:</span>Totam rem aperiam, eaque ipsa.</span>
+                  <span class="font-weight-bold">Lesson 3:</span> Setting DevOps</span>
               </li>
               <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-2 mr-2">
-                  <img class="icon bg-primary-2" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
+                <div class="icon-round icon-round-xs bg-primary mr-2">
+                  <img class="icon bg-primary" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
                 </div>
                 <span>
-                  <span class="font-weight-bold">Lesson 4:</span>Accusantium doloremque laudantium, totam rem</span>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="row justify-content-between align-items-center my-6">
-          <div class="col-md-5 col-lg-6 mb-4 mb-md-0" data-aos="fade-right">
-            <div class="row justify-content-center">
-              <div class="col-xl-9 col-lg-10">
-                <div class="card card-icon-3 card-body justify-content-between shadow-3d rotate-left">
-                  <div class="icon-round mb-3 mb-md-4 icon bg-primary-3">
-                    <img class="icon bg-primary-3" src="assets/img/icons/theme/devices/iphone-x.svg" alt="icon" data-inject-svg />
-                  </div>
-                  <span class="badge bg-primary-3 text-light">4 Lessons</span>
-                  <div>
-                    <h3>Responsive Design</h3>
-                    <p class="lead">
-                      Accusantium doloremque laudantium, totam
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6" data-aos="fade">
-            <h3 class="h1">Responsive Design</h3>
-            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
-            <ul class="list-unstyled mb-0">
-              <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
-                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
-                </div>
-                <span>
-                  <span class="font-weight-bold">Lesson 1:</span>Natus error sit voluptatem</span>
-              </li>
-              <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
-                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
-                </div>
-                <span>
-                  <span class="font-weight-bold">Lesson 2:</span>Doloremque laudantium, totam error.</span>
-              </li>
-              <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
-                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
-                </div>
-                <span>
-                  <span class="font-weight-bold">Lesson 3:</span>Accusantium doloremque laudantium, totam rem</span>
-              </li>
-              <li class="d-flex py-2">
-                <div class="icon-round icon-round-xs bg-primary-3 mr-2">
-                  <img class="icon bg-primary-3" src="assets/img/icons/interface/check.svg" alt="Checkmark icon" data-inject-svg />
-                </div>
-                <span>
-                  <span class="font-weight-bold">Lesson 4:</span>Totam rem aperiam, eaque ipsa.</span>
+                  <span class="font-weight-bold">Lesson 4:</span> GitHub</span>
               </li>
             </ul>
           </div>

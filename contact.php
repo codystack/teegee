@@ -36,7 +36,7 @@ Can't wait to work with you.</p>
               <p class="lead">Fill out the form below to contact me with any general inquiries. Looking forward to hearing from you!
               </p>
             </div>
-            <form action="https://mailform.mediumra.re/leap/smtp.php" data-form-email novalidate>
+            <form action="" data-form-email novalidate>
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
