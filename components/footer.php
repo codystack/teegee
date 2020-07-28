@@ -134,14 +134,15 @@
     <script type="text/javascript" src="assets/js/custom.js"></script>
 
     <script type="text/javascript">
-      jQuery("form:not([action])").on('submit', function(){return false;});
+      jQuery("form:not([action])").on('submit', function(){return true;});
     </script>
 
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $(document).ready(function(){
             $("#subscribe-modal").modal('show');
         });
-    </script>
+    </script>-->
+    
 
   </body>
 

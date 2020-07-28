@@ -2,12 +2,12 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
-            <a href="#">
-              <img src="assets/img/portfolio-item-1.jpg" alt="Leap iOS" class="rounded mb-3">
+            <a href="recre8-portfolio">
+              <img src="assets/img/recre8/recre8-portfolio.jpg" alt="Recre8 Design" class="rounded mb-3">
             </a>
-            <a href="#">
-              <h4 class="mb-1">Leap iOS</h4>
-              <div class="text-small text-muted">Digital</div>
+            <a href="recre8-portfolio">
+              <h4 class="mb-1">ReCre8 Design</h4>
+              <div class="text-small text-muted">Web Design/Development</div>
             </a>
           </div>
           <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">

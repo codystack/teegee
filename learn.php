@@ -185,7 +185,7 @@
                   <div>
                     <h3>Web Development</h3>
                     <p class="lead">
-                      Accusantium doloremque laudantium, totam
+                      You're a step closer to building a real life projects.
                     </p>
                   </div>
                 </div>

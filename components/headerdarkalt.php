@@ -1,3 +1,7 @@
+<?php
+include ('./config/controllers.php');
+require_once "./config/dbconnect.php";
+?>
 <!doctype html>
 <html lang="en">
 
@@ -20,6 +24,7 @@
     <link href="assets/css/theme-software-library.min.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="preload" as="font" href="assets/fonts/Inter-UI-upright.var.woff2" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" as="font" href="assets/fonts/Inter-UI.var.woff2" type="font/woff2" crossorigin="anonymous">
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/2113ffa3185856e2343592157/3e465356717a7cc083cfb2e03.js");</script>
   </head>
 
   <body>

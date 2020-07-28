@@ -57,22 +57,6 @@
     <script type="text/javascript" src="assets/js/popper.min.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 
-    <!-- 
-             This appears in the demo only.  This script ensures our demo countdowns are always showing a date in the future 
-             by altering the date before the countdown is initialized 
-        -->
-    <script type="text/javascript">
-      (function($){
-            var now             = new Date;
-            var day             = 864e5;
-            var weeksToAdd      = 2;
-            var tenWeeksFromNow = new Date(+now + day * 7 * weeksToAdd).toISOString().slice(0,10).replace(/\-/g, 'index.html');
-            $('[data-countdown-date].add-countdown-time').attr('data-countdown-date', tenWeeksFromNow);
-          })(jQuery);
-    </script>
-
-    <!-- Optional Vendor Scripts (Remove the plugin script here and comment initializer script out of index.js if site does not use that feature) -->
-
     <!-- AOS (Animate On Scroll - animates elements into view while scrolling down) -->
     <script type="text/javascript" src="assets/js/aos.js"></script>
     <!-- Clipboard (copies content from browser into OS clipboard) -->
@@ -113,14 +97,14 @@
     <script type="text/javascript" src="assets/js/theme.js"></script>
 
     <script type="text/javascript">
-      jQuery("form:not([action])").on('submit', function(){return false;});
+      jQuery("form:not([action])").on('submit', function(){return true;});
     </script>
 
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $(document).ready(function(){
             $("#subscribe-modal").modal('show');
         });
-    </script>
+    </script>-->
 
 
   </body>

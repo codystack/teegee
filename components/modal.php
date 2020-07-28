@@ -14,19 +14,19 @@
                           <h4 class="h3 mb-1">Have a project idea?</h4>
                           <p>I won't break your wallet, just send me a message let's get started.</p>
                         </div>
-                        <form action="" data-form-email novalidate>
+                        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post" novalidate>
                           <div class="form-row">
                             <div class="col-12">
-                              <input type="text" class="form-control mb-2" placeholder="Full Name" name="full_name" required>
+                              <input type="text" class="form-control mb-2" placeholder="Full Name" name="fullName" required>
                             </div>
                             <div class="col-12">
                               <input type="email" class="form-control mb-2" placeholder="Email Address" name="email" required>
                             </div>
                             <div class="col-12">
-                              <input type="tel" class="form-control mb-2" placeholder="Phone Number" name="phone_number" required>
+                              <input type="tel" class="form-control mb-2" placeholder="Phone Number" name="tel" required>
                             </div>
                             <div class="col-12">
-                              <textarea class="form-control mb-2" placeholder="Tell me what i need to know." name="message" required></textarea>
+                              <textarea class="form-control mb-2" placeholder="Tell me what i need to know." name="comment" required></textarea>
                             </div>
                             <div class="col-12">
                               <div class="d-none alert alert-success" role="alert" data-success-message>
@@ -36,7 +36,7 @@
                                 Please fill all fields correctly.
                               </div>
                               </div>
-                              <button type="submit" class="btn btn-primary btn-loading btn-block" data-loading-text="Sending">
+                              <button type="submit" class="btn btn-primary btn-loading btn-block" name="hireme_btn" data-loading-text="Sending">
                                 <img class="icon" src="assets/img/icons/theme/code/loading.svg" alt="loading icon" data-inject-svg />
                                 <span>Submit</span>
                               </button>
