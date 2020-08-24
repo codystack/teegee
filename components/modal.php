@@ -14,7 +14,7 @@
                           <h4 class="h3 mb-1">Have a project idea?</h4>
                           <p>I won't break your wallet, just send me a message let's get started.</p>
                         </div>
-                        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post" novalidate>
+                        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST">
                           <div class="form-row">
                             <div class="col-12">
                               <input type="text" class="form-control mb-2" placeholder="Full Name" name="fullName" required>

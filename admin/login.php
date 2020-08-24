@@ -1,5 +1,6 @@
 <?php
 session_start();
+include ('../config/dbconnect.php');
 include ('../config/controllers.php');
 ?>
 <!DOCTYPE html>
@@ -13,7 +14,7 @@ include ('../config/controllers.php');
 	<meta name="description" content="Elite Funds is a unique peer 2 peer platform, which provides its members the ability to earn money by funding one another through her large community of help givers. In today’s economy, it seems that everyone is looking for a way to earn a few extra bucks. The shrinking job market, falling asset values, and economic uncertainty that makes every day a struggle.">
 	<link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/FDaWgtt.png">
 
-	<title>Login :: Elite Funds&trade;</title>
+	<title>Login :: ThankGod Okoro&trade;</title>
 	<link href="css/modern.css" rel="stylesheet">
 </head>
 <body class="theme-blue">

@@ -25,7 +25,7 @@ if (isset($_GET['logout'])) {
     <meta name="author" content="">
     <link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/vGYIf1a.png">
 
-    <title>Dashboard :: Elite Funds&trade;</title>
+    <title>Dashboard :: ThankGod Okoro&trade;</title>
 
     <link href="css/modern.css" rel="stylesheet">
 
