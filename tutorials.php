@@ -1,4 +1,6 @@
-<?php include('./components/headerdarkalt.php');?>
+<?php 
+$page = 'tutorials';
+include('./components/headerdarkalt.php');?>
 
     <section class="has-divider text-light jarallax bg-dark" data-jarallax data-speed="0.5" data-overlay>
       <img src="https://i.imgur.com/yGm4gJm.jpg" alt="" class="jarallax-img opacity-30">

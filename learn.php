@@ -1,4 +1,6 @@
-<?php include('./components/headerdark.php');?>
+<?php 
+$page = 'learn';
+include('./components/headerdark.php');?>
 
     <section class="bg-primary-3 has-divider text-light o-hidden">
       <div class="container layer-2">

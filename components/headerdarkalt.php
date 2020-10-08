@@ -12,7 +12,7 @@ require_once "./config/dbconnect.php";
     <title>TG&trade; :: Web + App Developer, UI/UX Designer, Product Designer & Graphic Designer.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="ThankGod Okoro is a Software developer/programmer, Web + App Developer, UI/UX Designer, Brand Strategist & Product/Graphic Designer.">
-    <meta name="keywords" content="ThankGodOkoro.codes,TG,codes,ThankGod,Okoro,software,developer,development,programmer,programming,coder,coding,blogger,blogging,digital,creator,creation,graphic designer,product designer,product,graphics,branding">
+    <meta name="keywords" content="ThankGodOkoro.codes,ThankGod Okoro,TG,codes,ThankGod,Okoro,software,developer,development,programmer,programming,coder,coding,blogger,blogging,digital,creator,creation,graphic designer,product designer,product,graphics,branding">
     <!-- Favicon -->
     <link rel="shortcut icon" href="https://i.imgur.com/FDaWgtt.png" />
     <style>

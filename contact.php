@@ -1,4 +1,6 @@
-<?php include('./components/headeralt.php');?>
+<?php 
+$page = 'contact';
+include('./components/headeralt.php');?>
 
     <section class="bg-primary-alt header-inner o-hidden">
       <div class="container layer-2 position-relative">

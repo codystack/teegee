@@ -1,4 +1,6 @@
-<?php include('./components/headerdark.php');?>
+<?php 
+$page = 'portfolio';
+include('./components/headerdark.php');?>
 
     <section class="bg-primary-3 text-light">
       <div class="container mt-lg-6">
