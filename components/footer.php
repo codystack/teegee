@@ -77,10 +77,6 @@
     <script type="text/javascript" src="assets/js/popper.min.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 
-    <!-- 
-             This appears in the demo only.  This script ensures our demo countdowns are always showing a date in the future 
-             by altering the date before the countdown is initialized 
-        -->
     <script type="text/javascript">
       (function($){
             var now             = new Date;
