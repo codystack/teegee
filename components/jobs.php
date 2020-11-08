@@ -1,11 +1,20 @@
 <section class="bg-primary-3 text-light">
       <div class="container">
         <div class="row">
-        <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
-            <a href="http://emmawike.com/" target="_blank">
+          <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <a href="https://kingdomlifegospel.org" target="_blank">
+              <img src="assets/img/portfolio-item-11.jpg" alt="Kingdom Life" class="rounded mb-3">
+            </a>
+            <a href="https://kingdomlifegospel.org" target="_blank">
+              <h4 class="mb-1">Kingdom Life Gospel Outreach Ministries</h4>
+              <div class="text-small text-muted">Web Design/Development</div>
+            </a>
+          </div>
+          <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <a href="https://emmawike.com/" target="_blank">
               <img src="assets/img/portfolio-item-10.jpg" alt="Emma Wike" class="rounded mb-3">
             </a>
-            <a href="http://emmawike.com/" target="_blank">
+            <a href="https://emmawike.com/" target="_blank">
               <h4 class="mb-1">Emma Wike & Partners</h4>
               <div class="text-small text-muted">Web Design/Development</div>
             </a>
