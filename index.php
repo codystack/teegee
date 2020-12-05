@@ -32,7 +32,7 @@
                         </a>
                       </li>
                       <li class="nav-item">
-                        <a href="https://medium.com/@codystack" class="nav-link">
+                        <a href="https://thankgodokoro.medium.com" class="nav-link">
                           <img class="icon undefined" src="assets/img/icons/social/medium.svg" target="_blank" alt="medium social icon" data-inject-svg />
                         </a>
                       </li>
