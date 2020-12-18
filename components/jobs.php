@@ -2,6 +2,15 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <a href="https://mruniversenigeria.org" target="_blank">
+              <img src="assets/img/portfolio-item-12.jpg" alt="Mr. Universe Nigeria" class="rounded mb-3">
+            </a>
+            <a href="https://mruniversenigeria.org" target="_blank">
+              <h4 class="mb-1">Mr. Universe Nigeria</h4>
+              <div class="text-small text-muted">Web Design/Development</div>
+            </a>
+          </div>
+          <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
             <a href="https://kingdomlifegospel.org" target="_blank">
               <img src="assets/img/portfolio-item-11.jpg" alt="Kingdom Life" class="rounded mb-3">
             </a>
@@ -55,6 +64,7 @@
               <div class="text-small text-muted">Web Design/Development</div>
             </a>
           </div>
+          <!--
           <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
             <a href="https://dezurik.com.ng/" target="_blank">
               <img src="assets/img/portfolio-item-3.jpg" alt="Dezurik" class="rounded mb-3">
@@ -73,6 +83,7 @@
               <div class="text-small text-muted">Web Design/Development</div>
             </a>
           </div>
+          -->
           <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="500">
             <a href="https://cameratrader.ng/" target="_blank">
               <img src="assets/img/portfolio-item-5.jpg" alt="Camera Trader" class="rounded mb-3">
